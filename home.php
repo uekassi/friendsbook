@@ -59,7 +59,7 @@
 				<h1 class="carousel-caption">Essambil Touck Pierre Dany</h1>
 			</div>
 			<div class="item">
-				<img src="photos/angouand.jpg" alt="image 2">
+				<img src="photos/angouand4.jpg" alt="image 2">
 				<h1 class="carousel-caption">Angouand Bikag Junior</h1>
 			</div>
 			<div class="item">
@@ -100,6 +100,14 @@
 	</div>
 </div>
 <div class="couche"></div>
+
+<div>
+	Bonjour
+</div>
+
+<footer style="font-size: 10px;">
+	Développé par <em><b>Ycon</b></em>
+</footer>
 
 	<script type="text/javascript" src="bootstrap/js/jquery.js"></script>
 	<script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
